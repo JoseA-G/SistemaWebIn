@@ -1,0 +1,94 @@
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    @*@Styles.Render("~/Content/css")
+    @Styles.Render("~/Content/Plugins/Style.css")
+    @Scripts.Render("~/bundles/modernizr")*@
+
+    <link rel="stylesheet" href="~/Content/StyleSheet.css"/>
+    @*<style>
+            .content {
+                margin:8%;
+                background-color:#fff;
+                box-shadow: 0 0 5px #4c4c4c;
+                padding: 15px 2px;
+                border-radius:4px;
+            }
+            body {
+                background-color: #DDE1D6;
+            }
+        </style>*@
+
+  
+</head>
+<body>
+   
+        <div class="wrapper">
+
+            <div class="loginBox">
+
+                <div class="logiHeader">
+                    <span>Inicio</span>
+                </div>
+
+                <div class="imgs">
+                    <img src="~/Resources/Images/Imagen-inmaculada.png" />
+                    
+                </div>
+
+                <form action="@Url.Content("~/Login/Index")" method="post">
+                    <div class="ImputBox">
+
+                        <input type="text" name="usuario" id="txtusuario" class="input-field" required @*class="form-control"*@ @*value="JoseA"*@ />
+                        <label for="txtusuario" class="label">Usuario</label>
+                    </div>
+
+                    <div class="ImputBox">
+
+                        <input type="password" name="contrasenia" id="txtcontrasenia" class="input-field" required @*class="form-control"*@ @*value="123"*@ />
+                        <label for="txtusuario" class="label">Contraseña</label>
+                    </div>
+                    <button class="input">Ingresar</button>
+                </form>
+                <span class="badge badge-danger">@ViewBag.Error</span>
+            </div>
+            @*<div class="row content">
+                    <div class="col-md-6">
+                        <img class="img-fluid" id="img1" src="@Href("~/Resources/Images/Imagen inmaculada.png")" />
+                    </div>
+                    <div class="col-md-6">
+                        <h3 class="signin-tex mb-3">
+                            Inmaculada Concepcion
+                        </h3>
+                        <form action="@Url.Content("~/Login/Index")" method="post">
+                            <div class="form-group">
+                                <label for="txtusuario">Usuario</label>
+                                <input type="text" name="usuario" id="txtusuario" class="form-control" value="JoseA" />
+                            </div>
+                            <div class="form-group">
+                                <label for="txtusuario">Contraseña</label>
+                                <input type="password" name="contrasenia" id="txtcontrasenia" class="form-control" value="123" />
+                            </div>
+                            <button class="btn btn-primary">Ingresar</button>
+                        </form>
+                        <span class="badge badge-danger">@ViewBag.Error</span>
+                    </div>
+                </div>*@
+
+        </div>
+
+
+        <div></div>
+
+        @*@Scripts.Render("~/bundles/jquery")
+         @Scripts.Render("~/bundles/bootstrap")
+        @Scripts.Render("~/Content/Plugins/Style.css")*@
+</body>
+</html>
