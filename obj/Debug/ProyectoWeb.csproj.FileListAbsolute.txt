@@ -1,0 +1,522 @@
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll.config
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.pdb
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\csc.exe
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\csc.exe.config
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\csc.rsp
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\csi.exe
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\csi.exe.config
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\csi.rsp
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.AppContext.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Console.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.Compression.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.Pipes.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.AccessControl.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Claims.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Principal.Windows.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.ValueTuple.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.XPath.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\vbc.exe
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\vbc.exe.config
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\vbc.rsp
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\VBCSCompiler.exe
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\Antlr3.Runtime.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\Newtonsoft.Json.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\System.Web.Helpers.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\System.Web.Mvc.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\System.Web.Optimization.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\System.Web.Razor.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Deployment.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Razor.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\WebGrease.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\System.Web.Helpers.xml
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\System.Web.Mvc.xml
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\System.Web.Optimization.xml
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\System.Web.Razor.xml
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.xml
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Deployment.xml
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Razor.xml
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\Newtonsoft.Json.xml
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\Antlr3.Runtime.pdb
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Helpers.resources.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Mvc.resources.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Optimization.resources.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Razor.resources.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\es\System.Web.WebPages.resources.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\CapaDatos.pdb
+D:\WorkSpaceAD\YOUTUBE\018_FUNCIONALIDAD SISTEMA COLEGIO WEB\ProyectoWeb\ProyectoWeb\bin\CapaModelo.pdb
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll.config
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.pdb
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\csc.exe
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\csc.rsp
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\csi.exe
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\csi.rsp
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\vbc.exe
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\CapaDatos.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\CapaModelo.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Helpers.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Mvc.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Razor.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\WebGrease.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\CapaDatos.pdb
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\CapaModelo.pdb
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Helpers.xml
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Mvc.xml
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Optimization.xml
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Razor.xml
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.xml
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\obj\Debug\Proyecto.E64FB7CD.Up2Date
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+C:\Users\Usuario\Downloads\018_SistemaGestionEscolarASPMVC-main\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll.config
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.pdb
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\csc.exe
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\csc.rsp
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\csi.exe
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\csi.rsp
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\vbc.exe
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\CapaDatos.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\CapaModelo.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Helpers.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Mvc.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Razor.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\WebGrease.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\CapaDatos.pdb
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\CapaModelo.pdb
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Helpers.xml
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Mvc.xml
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Optimization.xml
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Razor.xml
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.xml
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\obj\Debug\Proyecto.E64FB7CD.Up2Date
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+C:\Users\Usuario\Downloads\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll.config
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.pdb
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\CapaDatos.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\CapaModelo.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Helpers.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Mvc.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Razor.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\WebGrease.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\CapaDatos.pdb
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\CapaModelo.pdb
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Helpers.xml
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Mvc.xml
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Optimization.xml
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Razor.xml
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.xml
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\obj\Debug\Proyecto.E64FB7CD.Up2Date
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll.config
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.pdb
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\CapaDatos.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\CapaModelo.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Helpers.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Mvc.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Razor.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\WebGrease.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\CapaDatos.pdb
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\CapaModelo.pdb
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Helpers.xml
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Mvc.xml
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Optimization.xml
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Razor.xml
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.xml
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\obj\Debug\Proyecto.E64FB7CD.Up2Date
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+C:\Users\Usuario\Desktop\SistemaGestionEscolar-main - copia\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.pdb
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll.config
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\ProyectoWeb.pdb
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\CapaDatos.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\CapaModelo.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Helpers.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Mvc.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Razor.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\WebGrease.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\CapaDatos.pdb
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\CapaModelo.pdb
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Helpers.xml
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Mvc.xml
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Optimization.xml
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.Razor.xml
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.xml
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\obj\Debug\Proyecto.E64FB7CD.Up2Date
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.dll
+C:\Users\Usuario\Desktop\SistemaDefensa\SistemaGestionEscolar-main\ProyectoWeb\ProyectoWeb\obj\Debug\ProyectoWeb.pdb

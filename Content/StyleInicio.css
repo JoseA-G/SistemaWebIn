@@ -1,0 +1,154 @@
+﻿*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Arial, Helvetica, sans-serif;
+    text-transform:capitalize;
+    text-decoration:none;
+   
+
+}
+
+
+header {
+    background-image: url(../Resources/Images/Colegio5.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   
+    height: 58vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    max-width:1100px;
+    margin: 0 auto;
+}
+
+.header-text {
+    margin-bottom: 100px;
+    text-align: center;
+    width: 700px;
+}
+
+.header-text h1{
+    
+    color:white;
+    font-size:55px;
+
+}
+
+header-text p{
+    color:white;
+    margin-top:35px;
+}
+
+.btn-1{
+    display:inline-block;
+    background-color:darkturquoise;
+    margin-top:35px;
+    padding:15px 25px;
+    border-radius:25px;
+}
+
+.services{
+    padding: 50px 0px;
+    text-align:center;
+    color:grey;
+}
+
+.services h2{
+    font-size: 55px;
+    margin-bottom:25px;
+}
+
+.txt-1{
+    font-size: 20px;
+    padding: 0px 200px;
+    margin-bottom: 55px;
+    text-align:center;
+}
+
+.group-service{
+    display: flex;
+    justify-content: space-between;
+}
+
+.service{
+    padding:35px 25px;
+    box-shadow:0px 0px 15px rgba(0,0,0,0.1);
+}
+
+.service img{
+    width:50px;
+    margin-bottom:25px
+}
+
+.service h3{
+    font-size:22px;
+    margin-bottom:15px;
+
+}
+.service p {
+    font-size: 18px;
+    text-align: center;
+}
+
+.services container p txt-1 {
+    text-align: center;
+}
+
+.porfolio {
+    padding: 50px 0px;
+    color: grey;
+    display: flex;
+}
+
+.porfolio-txt h2{
+    font-size:55px;
+    margin-bottom:35px;
+}
+.porfolio-txt p{
+    font-size: 18px;
+    margin:0px 135px 55px 0px;
+
+}
+
+.imgs {
+    display: flex;
+
+   
+}
+
+.imgs img{
+    width:250px;
+    margin:0px 20px;
+   
+}
+
+.bg-sec {
+    background-image: url(../Resources/Images/Colegio5.jpg);
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+    margin:35px 0px;
+}
+
+.bg-txt{
+    padding:100px 0px;
+    text-align:center;
+    color:white;
+
+}
+.bg-txt h2{
+    font-size:18px ;
+    margin-bottom:25px;
+}
+
+.footer p{
+    text-align:center;
+}
